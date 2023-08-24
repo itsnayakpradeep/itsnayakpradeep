@@ -6,6 +6,17 @@
   </a>
 </h1>
 
-<h3>A passionate Front-End Developer from INDIA IN<h3>
+<h3 align="center">A passionate Front-End Developer from INDIA<h3>
 
 <br/>
+
+<div align="center">
+  
+  🔭 I’m currently working on **OTT APP**
+
+  🌱 I’m currently learning  **Expressb Js, React Native Expo, Graph QL**
+
+  💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Node**
+
+</div>
+
