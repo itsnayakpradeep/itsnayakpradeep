@@ -14,9 +14,9 @@
   
   🔭 I’m currently working on **OTT APP**
 
-  🌱 I’m currently learning  **Expressb Js, React Native Expo, Graph QL**
+  🌱 I’m currently learning  **Expressb Js, , Graph QL**
 
-  💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Node**
+  💬 Ask me about **HTML, CSS, JavaScript, React, React Native Expo, Redux, Node,**
 
 </div>
 
