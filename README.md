@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<h3 align="center">A passionate Front-End Developer from INDIA<h3>
+<h3 align="center">A passionate Front-End Developer from INDIA IN<h3>
 
 <br/>
 
@@ -16,7 +16,11 @@
 
   🌱 I’m currently learning  **Express Js, Graph QL**
 
-  💬 Ask me about **HTML, CSS, JavaScript, React, React Native Expo, Redux, Node,**
+  💬 Ask me about **HTML, CSS, JavaScript, React, React Native Expo, Redux, Node... or anything [here](https://https://github.com/itsnayakpradeep)**
+
+  ⚡ Fun fact **My favourite animal is a dog because they're so energetic and friendly**
 
 </div>
+
+
 
