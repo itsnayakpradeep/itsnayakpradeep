@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<h3 align="center">A passionate Front-End Developer from INDIA IN<h3>
+<h3 align="center">A passionate Front-End Developer from INDIA in<h3>
 
 <br/>
 
