@@ -40,8 +40,8 @@
 <br />
 <div align="cenetr">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript" />
-    <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript" /> <br />
+    <img src="https://skillicons.dev/icons?i=react,redux,bootstrap,mui,mysql,mongodb,html,css,sass,vscode,figma,git" />
   </a>
 </div>
 
