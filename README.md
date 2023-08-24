@@ -34,4 +34,16 @@
  </a
 </div>
 
+<hr />
+
+<h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br />
+<div align="cenetr">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript" />
+    <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git" />
+  </a>
+</div>
+
+
 
