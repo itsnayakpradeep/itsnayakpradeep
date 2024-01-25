@@ -23,13 +23,13 @@
 </div>
 
 <div align="center">
- <a href="">
+ <a href="https://mail.google.com/mail/itsnayakpradeep@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
  </a>
- <a href="">
+ <a href="https://www.linkedin.com/in/itsnayakpradeep/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
- <a href="">
+ <a href="#">
    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
  </a
 </div>
